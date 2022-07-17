@@ -74,19 +74,19 @@
         },
         {
             "id": 4,
-            "userId": 1,
+            "userId": 2,
             "title": "sit amet",
             "body": "ac leo pellentesque ultrices mattis odio donec vitae nisi nam"
         },
         {
             "id": 5,
-            "userId": 1,
+            "userId": 2,
             "title": "convallis duis consequat dui nec",
             "body": "tincidunt lacus at velit vivamus vel"
         },
         {
             "id": 6,
-            "userId": 1,
+            "userId": 2,
             "title": "praesent id massa id",
             "body": "justo in blandit ultrices enim lorem ipsum"
         }
